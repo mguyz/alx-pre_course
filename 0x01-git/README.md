@@ -1,1 +1,1 @@
-A readme for this directory, where I will create some files using git
+A readme file for this main directory, where I will create some files using git
